@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Embodied AI, Physics Simulation, and AI4Science.
 
-👯 I’m looking to collaborate on AI-Accelerating simulation and Physics AI.
+👯 I’m looking to collaborate on Embodied data synthesis and infra, AI-Accelerating simulation, and Physics AI.
 
 📫 How to reach me: nyanac@connect.ust.hk
 <!--
